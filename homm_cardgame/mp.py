@@ -18,7 +18,6 @@ from pygame.locals import *
 # os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'homm_cardgame.settings')
 # django.setup()
 
-# my ip at home is '192.168.1.133' at DI its '192.168.201.216', from phone its 192.168.152.27
 # IP-address of my linode server '170.187.187.119'
 address = '192.168.1.133'
 port = 5555
