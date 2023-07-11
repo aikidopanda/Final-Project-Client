@@ -19,7 +19,8 @@ from pygame.locals import *
 # django.setup()
 
 # IP-address of my linode server '170.187.187.119'
-address = '192.168.1.133'
+# If you have my server.py file you can create your own server. In this case put the IP of your server into the address variable.
+address = '170.187.187.119'
 port = 5555
 
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
