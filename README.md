@@ -6,7 +6,9 @@ How to run:
 
 1. Install Python 3
 2. Install pygame (type 'pip install pygame' in the command line)
-3. Type 'python mp.py' in the command line
+3. If the server is running, double-click mp.exe. OR go to the folder where mp.py is located and type 'python mp.py' in the command line
+
+The server can be found here: https://github.com/aikidopanda/Final-Project-Server
 
 How to win:
 
